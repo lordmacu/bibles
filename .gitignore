@@ -5,3 +5,4 @@
 *.zip
 *.sqlite
 scripts/strip_versions_json.py
+scripts/decrypt_check.py
