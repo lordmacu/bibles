@@ -9,14 +9,14 @@
       "verses": 31102,
       "description": "La traducción más popular en español, conocida por su fidelidad y belleza literaria.",
       "zipEnc": "rvr1960.dat",
-      "zipEncSha256": "b9571afa460979694a7814959c2f7edfaedc4c45ae94e6e1df55adce9ef286d7",
+      "zipEncSha256": "b537deb4dc037f299af2fdfcd1a52f61b986b63da9e3fb71a84f7f83faf9b004",
       "zipEncSize": 4099425,
       "enc": {
         "alg": "AES-256-GCM",
         "kdf": "PBKDF2-HMAC-SHA256",
         "iterations": 200000,
-        "salt": "2mIrCXCuXGdXXz2Tc2q6Mg==",
-        "nonce": "Ez9rwwk8dz36RI31"
+        "salt": "b9ApS1radoV5zHUL4Gq6jA==",
+        "nonce": "HuRMkGs2jU3wCrao"
       }
     },
     {
@@ -28,14 +28,14 @@
       "verses": 31102,
       "description": "Traducción moderna con lenguaje claro y contemporáneo.",
       "zipEnc": "NVI1999.dat",
-      "zipEncSha256": "447e7ba70bda7a908ec3ed068852cb86af964525b7352674f1303fc640bc7bdb",
+      "zipEncSha256": "a73bae553b613b4f1a054201f4f7d0ef00b0a9e17cf3d7453c66f3277e531bdb",
       "zipEncSize": 4985173,
       "enc": {
         "alg": "AES-256-GCM",
         "kdf": "PBKDF2-HMAC-SHA256",
         "iterations": 200000,
-        "salt": "BvcFZQDHybCA/SGz3Z6mAg==",
-        "nonce": "lysUtL1ml+Yc3+F6"
+        "salt": "FqmdFw4KhuWY48rPCe+Qew==",
+        "nonce": "xp0dLLrnmLR53uDl"
       }
     },
     {
@@ -47,14 +47,14 @@
       "verses": 31102,
       "description": "Actualización de la Reina Valera con lenguaje contemporáneo.",
       "zipEnc": "RVC.dat",
-      "zipEncSha256": "614e65bea8c1508a975dcd613f664ec5f0d806a4f17ecae6073aa818897d858e",
+      "zipEncSha256": "ee59dcc775f20baaad8140690040f314bbc9848ecc4c2f0fa5a98c4493a46133",
       "zipEncSize": 4505571,
       "enc": {
         "alg": "AES-256-GCM",
         "kdf": "PBKDF2-HMAC-SHA256",
         "iterations": 200000,
-        "salt": "IyOgjxonsIqDTOOYU+WZCQ==",
-        "nonce": "iL7jcRU5GUIrFSVI"
+        "salt": "g/XunBM5OGFvgNzXhaoWLw==",
+        "nonce": "m00ZmncE14QV4iXD"
       }
     },
     {
@@ -66,14 +66,14 @@
       "verses": 31102,
       "description": "Revisión de la Reina Valera con correcciones textuales.",
       "zipEnc": "RVG10.dat",
-      "zipEncSha256": "3d85bddeadc2d0fa84663c7d804bc011ebd8b7a3429dd822bb10b953a318f78e",
+      "zipEncSha256": "657ed5e2ec5accdb01007276f2933e0dd653c2884ed08bea9b5aad908f883b80",
       "zipEncSize": 4215403,
       "enc": {
         "alg": "AES-256-GCM",
         "kdf": "PBKDF2-HMAC-SHA256",
         "iterations": 200000,
-        "salt": "27QFIG8DmKySXZtqYk02lw==",
-        "nonce": "U6jlCsryy3P9DUgh"
+        "salt": "cg/35+tIDjbBiByvPaVCwg==",
+        "nonce": "APOa2oFWymA800NI"
       }
     },
     {
@@ -85,14 +85,14 @@
       "verses": 31078,
       "description": "Traducción en lenguaje sencillo y fácil de entender.",
       "zipEnc": "NTVivi.dat",
-      "zipEncSha256": "a0b8b0660dd96d857f9b9bf006829777b5ec4f7b84a102f425de001d23db8e6b",
+      "zipEncSha256": "d2c97f7537a5181ad589a5ca573ff63cc4b570035b620cdf74f72d3804371a30",
       "zipEncSize": 5027027,
       "enc": {
         "alg": "AES-256-GCM",
         "kdf": "PBKDF2-HMAC-SHA256",
         "iterations": 200000,
-        "salt": "9toK5d4jNLYSAKQlz2VTFw==",
-        "nonce": "0BLdC7tYghF/gJGe"
+        "salt": "xDfUOz54Xi+3GpvWYV816Q==",
+        "nonce": "hg/V+MrjXkMbXCVA"
       }
     },
     {
@@ -104,14 +104,14 @@
       "verses": 31081,
       "description": "Traducción en español básico, ideal para nuevos lectores.",
       "zipEnc": "PDT8.dat",
-      "zipEncSha256": "93beaf710a045d05036390d87761fcd251d53d2f74548ee7952f9bb5fd55eced",
+      "zipEncSha256": "13ac5edd6c92991bb7c7d0c44463c03ba91a26cd940db6b3ce850e626fe58490",
       "zipEncSize": 4573499,
       "enc": {
         "alg": "AES-256-GCM",
         "kdf": "PBKDF2-HMAC-SHA256",
         "iterations": 200000,
-        "salt": "6NLM2yX5XGPBDq05WZtZWA==",
-        "nonce": "IpAY7+PU96CcL1uk"
+        "salt": "wEVIlDSdOpSwmS33KL9o4w==",
+        "nonce": "HemmM5aGlcqYZ7y4"
       }
     },
     {
@@ -123,14 +123,14 @@
       "verses": 26650,
       "description": "Traducción simplificada para facilitar la comprensión.",
       "zipEnc": "BLSee.dat",
-      "zipEncSha256": "9a17ade7ccd816c57c9d4420b4a93943d5b075461cba2d5a9247d2966968566c",
+      "zipEncSha256": "e421ba91541ffd3407c61eac6d7fb451cea74bf3f198894a8b2de594cd0c56ae",
       "zipEncSize": 4529197,
       "enc": {
         "alg": "AES-256-GCM",
         "kdf": "PBKDF2-HMAC-SHA256",
         "iterations": 200000,
-        "salt": "q0m65IeJX01WNE3BR5k/5Q==",
-        "nonce": "uDRLAi3v1rZLtVf5"
+        "salt": "3TbIi9p9HOb4wXb2JySWVw==",
+        "nonce": "aUMql41M+QkDWDjl"
       }
     }
   ],
