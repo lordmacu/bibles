@@ -4,3 +4,4 @@
 # Keep only encrypted artifacts
 *.zip
 *.sqlite
+scripts/strip_versions_json.py
