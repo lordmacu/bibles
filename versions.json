@@ -1,0 +1,83 @@
+{
+  "versions": [
+    {
+      "id": "rvr1960",
+      "name": "Reina Valera 1960",
+      "abbreviation": "RVR60",
+      "language": "es",
+      "sqlite": "rvr1960.sqlite",
+      "zip": "rvr1960.zip",
+      "books": 66,
+      "verses": 31102,
+      "description": "La traducción más popular en español, conocida por su fidelidad y belleza literaria."
+    },
+    {
+      "id": "nvi1999",
+      "name": "Nueva Versión Internacional 1999",
+      "abbreviation": "NVI",
+      "language": "es",
+      "sqlite": "NVI1999.sqlite",
+      "zip": "NVI1999.zip",
+      "books": 66,
+      "verses": 31102,
+      "description": "Traducción moderna con lenguaje claro y contemporáneo."
+    },
+    {
+      "id": "rvc",
+      "name": "Reina Valera Contemporánea",
+      "abbreviation": "RVC",
+      "language": "es",
+      "sqlite": "RVC.sqlite",
+      "zip": "RVC.zip",
+      "books": 66,
+      "verses": 31102,
+      "description": "Actualización de la Reina Valera con lenguaje contemporáneo."
+    },
+    {
+      "id": "rvg10",
+      "name": "Reina Valera Gómez 2010",
+      "abbreviation": "RVG",
+      "language": "es",
+      "sqlite": "RVG10.sqlite",
+      "zip": "RVG10.zip",
+      "books": 66,
+      "verses": 31102,
+      "description": "Revisión de la Reina Valera con correcciones textuales."
+    },
+    {
+      "id": "ntvivi",
+      "name": "Nueva Traducción Viviente",
+      "abbreviation": "NTV",
+      "language": "es",
+      "sqlite": "NTVivi.sqlite",
+      "zip": "NTVivi.zip",
+      "books": 66,
+      "verses": 31078,
+      "description": "Traducción en lenguaje sencillo y fácil de entender."
+    },
+    {
+      "id": "pdt8",
+      "name": "Palabra de Dios para Todos",
+      "abbreviation": "PDT",
+      "language": "es",
+      "sqlite": "PDT8.sqlite",
+      "zip": "PDT8.zip",
+      "books": 66,
+      "verses": 31081,
+      "description": "Traducción en español básico, ideal para nuevos lectores."
+    },
+    {
+      "id": "blsee",
+      "name": "Biblia en Lenguaje Sencillo",
+      "abbreviation": "BLS",
+      "language": "es",
+      "sqlite": "BLSee.sqlite",
+      "zip": "BLSee.zip",
+      "books": 66,
+      "verses": 26650,
+      "description": "Traducción simplificada para facilitar la comprensión."
+    }
+  ],
+  "default": "rvr1960",
+  "lastUpdated": "2026-02-05"
+}
