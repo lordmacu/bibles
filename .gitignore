@@ -4,5 +4,6 @@
 # Keep only encrypted artifacts
 *.zip
 *.sqlite
+*.db
 scripts/strip_versions_json.py
 scripts/decrypt_check.py
