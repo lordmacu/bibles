@@ -1,0 +1,6 @@
+# Local tools
+/scripts/encrypt_versions.py
+
+# Keep only encrypted artifacts
+*.zip
+*.sqlite
