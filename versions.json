@@ -9,7 +9,17 @@
       "zip": "rvr1960.zip",
       "books": 66,
       "verses": 31102,
-      "description": "La traducción más popular en español, conocida por su fidelidad y belleza literaria."
+      "description": "La traducción más popular en español, conocida por su fidelidad y belleza literaria.",
+      "zipEnc": "rvr1960.zip.enc",
+      "zipEncSha256": "e93025e0ccf16ba15859cf20c5f973b38f7ef784b46c8cbbb357fc39d51b65f0",
+      "zipEncSize": 4099425,
+      "enc": {
+        "alg": "AES-256-GCM",
+        "kdf": "PBKDF2-HMAC-SHA256",
+        "iterations": 300000,
+        "salt": "/NGloRCxg1ON2M14wgWggA==",
+        "nonce": "gcgPFZ6gzeEzbQCh"
+      }
     },
     {
       "id": "nvi1999",
@@ -20,7 +30,17 @@
       "zip": "NVI1999.zip",
       "books": 66,
       "verses": 31102,
-      "description": "Traducción moderna con lenguaje claro y contemporáneo."
+      "description": "Traducción moderna con lenguaje claro y contemporáneo.",
+      "zipEnc": "NVI1999.zip.enc",
+      "zipEncSha256": "0ad9d4107faf0697266b7a2578e34deff9488de99400ad6ae7751ebab09727cc",
+      "zipEncSize": 4985173,
+      "enc": {
+        "alg": "AES-256-GCM",
+        "kdf": "PBKDF2-HMAC-SHA256",
+        "iterations": 300000,
+        "salt": "m8GnHO9oSaRYnWJh3dFQow==",
+        "nonce": "aKwA1yfLxObwKPnf"
+      }
     },
     {
       "id": "rvc",
@@ -31,7 +51,17 @@
       "zip": "RVC.zip",
       "books": 66,
       "verses": 31102,
-      "description": "Actualización de la Reina Valera con lenguaje contemporáneo."
+      "description": "Actualización de la Reina Valera con lenguaje contemporáneo.",
+      "zipEnc": "RVC.zip.enc",
+      "zipEncSha256": "690014e6561b9c247effcfc66898c16ab36ccd23b5849c239b3efdc8feaa2055",
+      "zipEncSize": 4505571,
+      "enc": {
+        "alg": "AES-256-GCM",
+        "kdf": "PBKDF2-HMAC-SHA256",
+        "iterations": 300000,
+        "salt": "+phCM7y09xrJBsK0sF3NLg==",
+        "nonce": "/QKZkFqQW0zRkFpf"
+      }
     },
     {
       "id": "rvg10",
@@ -42,7 +72,17 @@
       "zip": "RVG10.zip",
       "books": 66,
       "verses": 31102,
-      "description": "Revisión de la Reina Valera con correcciones textuales."
+      "description": "Revisión de la Reina Valera con correcciones textuales.",
+      "zipEnc": "RVG10.zip.enc",
+      "zipEncSha256": "5de708905c36d5abd392c99c0dca6818c8fa36f8be33afcd178d4e1aa1835468",
+      "zipEncSize": 4215403,
+      "enc": {
+        "alg": "AES-256-GCM",
+        "kdf": "PBKDF2-HMAC-SHA256",
+        "iterations": 300000,
+        "salt": "be0wxP7SqU3UKsMiCi9AUA==",
+        "nonce": "3TevnqbWl2Nzf0Zx"
+      }
     },
     {
       "id": "ntvivi",
@@ -53,7 +93,17 @@
       "zip": "NTVivi.zip",
       "books": 66,
       "verses": 31078,
-      "description": "Traducción en lenguaje sencillo y fácil de entender."
+      "description": "Traducción en lenguaje sencillo y fácil de entender.",
+      "zipEnc": "NTVivi.zip.enc",
+      "zipEncSha256": "c903dfd9ebbcfc6e4ea9b6dcadc82ff0f5f266b7521fa82b948400c2dc0b4965",
+      "zipEncSize": 5027027,
+      "enc": {
+        "alg": "AES-256-GCM",
+        "kdf": "PBKDF2-HMAC-SHA256",
+        "iterations": 300000,
+        "salt": "3JaL4jUPVm1kM5kiWq9Pmg==",
+        "nonce": "VEaB5MB47e8X6RXw"
+      }
     },
     {
       "id": "pdt8",
@@ -64,7 +114,17 @@
       "zip": "PDT8.zip",
       "books": 66,
       "verses": 31081,
-      "description": "Traducción en español básico, ideal para nuevos lectores."
+      "description": "Traducción en español básico, ideal para nuevos lectores.",
+      "zipEnc": "PDT8.zip.enc",
+      "zipEncSha256": "89b75937953d8f6e679623ccad8658dbe704e7451b40f356fbbad817649f58a9",
+      "zipEncSize": 4573499,
+      "enc": {
+        "alg": "AES-256-GCM",
+        "kdf": "PBKDF2-HMAC-SHA256",
+        "iterations": 300000,
+        "salt": "+yRPujFSZsZ+X7Im4vXQIQ==",
+        "nonce": "LoJoQl20gg6Sbwc8"
+      }
     },
     {
       "id": "blsee",
@@ -75,7 +135,17 @@
       "zip": "BLSee.zip",
       "books": 66,
       "verses": 26650,
-      "description": "Traducción simplificada para facilitar la comprensión."
+      "description": "Traducción simplificada para facilitar la comprensión.",
+      "zipEnc": "BLSee.zip.enc",
+      "zipEncSha256": "6173280961bc825f0a8ec0238c024b68fe81947002bc47d673fda34d2ef85186",
+      "zipEncSize": 4529197,
+      "enc": {
+        "alg": "AES-256-GCM",
+        "kdf": "PBKDF2-HMAC-SHA256",
+        "iterations": 300000,
+        "salt": "sKQ0PyiOU9vSPNzq5SzQdw==",
+        "nonce": "pMgHh/T6RAu6c41V"
+      }
     }
   ],
   "default": "rvr1960",
