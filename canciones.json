@@ -1,14 +1,14 @@
 {
   "dbFile": "canciones.db",
-  "zipEnc": "canciones-20260216013526.dat",
-  "zipEncSha256": "02a47079058b04a822db53b7e215999251f783efd2f9bdb737af316ffa6828b8",
-  "zipEncSize": 10602046,
+  "zipEnc": "canciones-20260216021145.dat",
+  "zipEncSha256": "97234c02bbfe811f8c2bf8e8fe23e31aaf20691a4fa54fd9f86af81036ae3e97",
+  "zipEncSize": 11694863,
   "enc": {
     "alg": "AES-256-GCM",
     "kdf": "PBKDF2-HMAC-SHA256",
     "iterations": 200000,
-    "salt": "0h3m8sCrxYBkQWsoEqjNQw==",
-    "nonce": "JTWeynyRIbuu//DZ"
+    "salt": "w2PvWFklVRUH11DuPDiVxg==",
+    "nonce": "U7vl6XcxX86q7n5z"
   },
   "lastUpdated": "2026-02-15"
 }
